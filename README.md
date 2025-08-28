@@ -34,23 +34,4 @@ Designed with a **luxury theme**: deep gradients, glowing hover effects, and ele
 
 ---
 
-## 📂 Project Structure
 
-perfume-store/
-│── client/ # React Frontend
-│ ├── src/
-│ │ ├── components
-│ │ ├── pages
-│ │ ├── redux
-│ │ └── App.jsx
-│ └── package.json
-│
-│── server
-│ ├── models
-│ ├── routes
-│ ├── controllers
-│ └── server.js
-│
-│── README.md
-│── package.json 
----
